@@ -1,6 +1,8 @@
 # I do not want to track the following files in my repo:
 password.txt
 
+
+
 # I also do not want to track the following directories:
 do_not_track/
 
